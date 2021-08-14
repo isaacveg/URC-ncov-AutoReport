@@ -6,6 +6,7 @@
     "now_city": "341000",
     "gps_city": "",
     "now_detail": "",
+    "is_inschool": "6",
     "body_condition": "1",
     "body_condition_detail": "",
     "now_status": "2",
@@ -14,6 +15,5 @@
     "last_touch_sars": "0",
     "last_touch_sars_date": "",
     "last_touch_sars_detail": "",
-    "other_detail": "",
-    "is_danger": "0"
+    "other_detail": ""
 }
